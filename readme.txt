@@ -31,7 +31,7 @@ You should apply for it at their website: http://rbkmoney.ru
 
 == Screenshots ==
 
-1. A screenshot of the adin panel of the plugin.
+1. A screenshot of the adin panel of the plugin screenshot-1.png.
 
 == Changelog ==
 = 1.0 =
