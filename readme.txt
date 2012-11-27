@@ -16,6 +16,13 @@ RBK Money is one of the popular payment gateways in Russia that enables web-shop
 
 This plug-in enables integration of RBK Money with a popular e-commerce solution Jigoshop. The plug-in is 100% free and it was developed when we needed to integrate RBK Money to our website [cardify.ru](http://cardify.ru). If you feel like saying thanks for this plug-in, you are welcome to send any postcard from our website.
 
+-------------------------
+
+(Russian translation of the above description)
+RBK Money является одним из популярных способов приема платежей в интернет-магазинах. Он позволяет принимать оплату через банковские карты (Visa, Mastercard), электронные деньги, терминалы оплаты и т.д.
+
+Данный плагин позволяет интегрировать RBK Money с другим популярным плагином для построения интернет-магазинов Jigoshop. Плагин 100% бесплатен и вы можете его использовать как пожелаете. Мы разработали данный плагин, когда нам было необходимо встроить RBK Money в наш собственный магазин [Кардифай - Открытки по почте](http://cardify.ru). Если вам нравится этот плагин и вы не прочь сказать нам спасибо, то нам будет очень приятно если вы отправить одну из открыток с нашего сайта. 
+
 == Installation ==
 
 1. Ensure you have latest version of [Jigoshop](http://www.jigoshop.com/) plugin installed
